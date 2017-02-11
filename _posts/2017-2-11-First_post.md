@@ -21,6 +21,8 @@ I was thinking about making this into a 1st person roguelike. I didn't explore t
 ## Top-down melee / turret building games
 I used an old temp model I made for the player and made a quick melee attack for it. I also made a item/turret menu that pops up when you hold Space.
 
+<div style='position:relative;padding-bottom:60%'><iframe src='https://gfycat.com/ifr/EminentTenderAlaskajingle' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
 I needed interesting goals for the game, so first I made a "boss" unit that travels from the beginning of the dungeon to the end. The goal was to kill the boss before it reaches the end. Before the boss spawns you had time to prepare by gathering gold so you could build turrets. Gold can be gathered by killing slime blob enemies and found in crates in some of the rooms.
 
 I quickly realized that the boss idea lacked player agency and the boss was easy to beat by just saving some gold and building a few turrets by the path.
