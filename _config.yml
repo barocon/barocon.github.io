@@ -2,34 +2,36 @@
 # This file contains configuration flags to customize your site
 #
 
-# Name of your site (displayed in the header)
-name: Justus Pousi
-
 # Short bio or description (displayed in the header)
 description: Game dev experiements
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: 
 
 #
 # Flags below are optional
 #
 
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
+# Site owner
+owner:
+  name: Justus Pousi
+  avatar: bio-photo.jpg
   email: jsspousi@gmail.com
-  facebook: jsspousi
-  flickr:
-  github: barocon.github.io
-  instagram:
-  linkedin: justus-pousi-258bb838
-  pinterest:
-  rss: # just type anything here for a working RSS icon
+  disqus-shortname:
   twitter: barocon
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  facebook: jsspousi
+  github: barocon.github.io
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: justus-pousi-258bb838
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -76,6 +78,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-gist
 
 # Exclude these files from your production _site
 exclude:
