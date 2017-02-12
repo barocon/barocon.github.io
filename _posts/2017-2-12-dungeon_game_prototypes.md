@@ -41,7 +41,7 @@ I quickly ran into design issues again. The gameplay is pretty boring and lacks 
 
 ## Conclusions
 
-### Game design is fucking hard
+### Good game design is hard
 And by that I mean making unique somewhat strategic games is hard. Cloning existing games is much easier because you already know that the core gameplay will work.
 
 ### Branching tree dungeons suck
