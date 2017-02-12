@@ -16,6 +16,8 @@ Anyway, here are some things I tried:
 ## First person dungeon exploration
 The only weapon of the player was a bow that shoots shining light-arrows. It also had some platforming and blob-enemies that drop gold. The dungeon was pitch black so you had to use the arrows to see where you were walking.
 
+<div style='position:relative;padding-bottom:57%'><iframe src='https://gfycat.com/ifr/ExaltedFlamboyantArabianwildcat' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
 I was thinking about making this into a 1st person roguelike. I didn't explore this idea much, because I wanted to try top-down perspective. Now looking back at it, I think I want to explore the 1st person dungeon idea more.
 
 ## Top-down melee / turret building games
@@ -29,7 +31,17 @@ I quickly realized that the boss idea lacked player agency and the boss was easy
 
 Second idea was to replace the boss with a payload you had to protect. I made some simple ranged enemiesa and made them spawn periodically from the beginning room. It was mostly the same as the boss encounter but you had be more active to protect the payload, so at least it was a small improvement.
 
+<div style='position:relative;padding-bottom:57%'><iframe src='https://gfycat.com/ifr/RespectfulPeacefulAlpinegoat' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
 ## Simplified RTS
 Next and latest idea was to try some RTS mechanics. Instead of player character I could buy lots of units and command them to attack-move to a point on the dungeon. I made some spawners that spawn periodically enemies that try to destroy your base.
 
-I quickly ran into design issues again. The gameplay is pretty boring and lacks variation.
+<div style='position:relative;padding-bottom:57%'><iframe src='https://gfycat.com/ifr/AncientAltruisticGilamonster' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+I quickly ran into design issues again. The gameplay is pretty boring and lacks variation. I doubt adding more units would help. RTS needs somekind of interesting resource gathering mechanics and I have yet to figure how that would work in the dungeon.
+
+## Conclusions
+#Game design is fucking hard
+And by that I mean making unique strategic games is hard. Cloning existing games is much easier because you already know that the core gameplay will work.
+#Branching tree dungeons suck
+It's hard to make branching tree dungeons fun to explore because of the many deadends.
