@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some unfinished prototype ideas for a dungeon crawler
+title: What I learned from trying to prototype an unique dungeon crawler
 ---
 
 A few months ago I made I a very simple dungeon generator. It basically iterates a list of doors and creates rooms for them.
@@ -41,7 +41,7 @@ Next and latest idea was to try some RTS mechanics. Instead of player character 
 I quickly ran into design issues again. The gameplay is pretty boring and lacks variation. I doubt adding more units would help. RTS needs somekind of interesting resource gathering mechanics and I have yet to figure how that would work in the dungeon.
 
 ## Conclusions
-#Game design is fucking hard
+# Game design is fucking hard
 And by that I mean making unique strategic games is hard. Cloning existing games is much easier because you already know that the core gameplay will work.
-#Branching tree dungeons suck
+# Branching tree dungeons suck
 It's hard to make branching tree dungeons fun to explore because of the many deadends.
