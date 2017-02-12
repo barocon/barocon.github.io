@@ -40,7 +40,9 @@ Next and latest idea was to try some RTS mechanics. Instead of player character 
 I quickly ran into design issues again. The gameplay is pretty boring and lacks variation. I doubt adding more units would help. RTS needs somekind of interesting resource gathering mechanics and I have yet to figure how that would work in the dungeon.
 
 ## Conclusions
+
 ### Game design is fucking hard
 And by that I mean making unique somewhat strategic games is hard. Cloning existing games is much easier because you already know that the core gameplay will work.
+
 ### Branching tree dungeons suck
 The biggest problem I faced is that the dungeons are far too simple to be fun to explore. The branching dungeon generator creates too many dead ends. Even if I juice up the dungeons, it won't help with the issues. Recently I saw a [talk about Cyclic Dungeon Generation](https://www.youtube.com/watch?v=mA6PacEZX9M) by Joris Dormans. Cyclic dungeons sound great but I would have to rewrite my generator pretty much from scratch to use grids and mesh generation. I don't have the time and motivation to do that right now. But the concept sounds great so maybe I'll try that later.
